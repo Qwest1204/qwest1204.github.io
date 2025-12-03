@@ -18,6 +18,9 @@ menu:
         - name: Соревнования
           url: challenges/
           weight: 2
+        - name: Проекты
+          url: projects/
+          weight: 1
         #- name: Courses
         #  url: courses/
         #  weight: 3
@@ -62,6 +65,8 @@ params:
           buttons:
             - name: Соревнования
               url: challenges/
+            - name: Проекты
+              url: projects/
             #- name: Data
             #  url: data/
             #- name: Books
