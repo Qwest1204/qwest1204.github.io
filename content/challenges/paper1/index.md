@@ -7,7 +7,7 @@ description: "Оценка вероятности использования п�
 summary: "Оценка вероятности использования промоакции" 
 cover:
     image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    #alt: "Some Uses For Olive Oil"
     relative: true
 
 ---

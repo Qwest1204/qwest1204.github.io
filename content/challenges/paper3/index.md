@@ -7,7 +7,7 @@ description: ""
 summary: "Участие в Национальной олимпиаде по анализу данных DANO (2025–2026)" 
 cover:
     image: "paper3.png"
-    alt: ""
+    #alt: ""
     relative: true
 
 ---
